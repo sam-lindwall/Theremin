@@ -1,0 +1,13 @@
+# Build output
+build/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+*.dis
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
